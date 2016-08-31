@@ -1,0 +1,14 @@
+header {
+	margin: auto;
+	width: 50%;
+	border: 3px solid green;
+	padding: 10px;
+}
+header, body {
+	margin: 10px;
+	width: 50%;
+}
+header h1 {
+	font-family: sans-serif;
+	color: white;
+}
